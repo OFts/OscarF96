@@ -2,7 +2,8 @@
   <a href="https://oscarafm.com/">
     <img
       alt="Oscar Fuentes"
-      src="https://vectr.com/oscarf96/j39aURn8bD.svg?width=600&height=600&select=bHpJEsOEE"
+      src="https://i.ibb.co/s2txCGf/OF.png"
+      border="0"
       width="300"
     />
   </a>
