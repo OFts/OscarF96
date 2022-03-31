@@ -2,9 +2,9 @@
   <a href="https://oscarafm.com/">
     <img
       alt="Oscar Fuentes"
-      src="https://i.ibb.co/s2txCGf/OF.png"
+      src="https://raw.githubusercontent.com/OscarF96/resources/main/oafm.svg"
       border="0"
-      width="300"
+      width="100"
     />
   </a>
 </p>
